@@ -18,7 +18,7 @@
 </td>
 <td><a href="https://www.linkedin.com/in/joaodobrowolski/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="trybecourse.slack.com/app_redirect?channel=U037PTJ6Q66"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="slack.com/app_redirect?channel=U037PTJ6Q66"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td> <a href="https://discordapp.com/users/JoaoDobrowolski#3961" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
