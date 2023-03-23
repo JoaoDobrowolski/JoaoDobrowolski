@@ -6,6 +6,13 @@
 
 -----
 
+### <div align="center">🛠👣 Sobre mim:</div>
+<div align="justify">
+<p>
+[EM CONSTRUÇÃO]
+</p>
+</div>
+
 <div align="center">
 <table>
 <tr>
@@ -34,7 +41,25 @@
 
 -----
 
+### <div align="center">⚡ Meus interesses pessoais:</div>
+<div align="justify">
+<p>
+💻 Front-End é meu xodó (sem tirar a importância do Back-End)
+🐕 Tenho 5 dogs
+:electron: Posso passar horas conversando sobre física
+🌊 O melhor lugar para se estar é na praia
+🏡 Meu sonho é ter uma casa totalmente automática
+👨‍💻 Raspagem de dados me fascina
+🦐 Minha comida favorita é camarão
+👨‍👩‍👧‍👦 Adoro sair com os amigos ou jogar com eles pelo Discord
+⚙️ Já fui estagiário de projetos, onde fazia diversas simulações mecânicas e de fluidos
+</p>
+</div>
+
+-----
+
 ### <div align="center">🛠️ Linguagens e ferramentas:</div>
+
 <div align="center">
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
