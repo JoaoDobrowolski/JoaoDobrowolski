@@ -44,8 +44,8 @@
 ### <div align="center">⚡ Meus interesses pessoais:</div>
 <div align="justify">
 <p>
-<p>💻&nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)</p>
-<p>🐕&nbsp; Tenho 5 dogs</p>
+<span>💻&nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)</span>
+<span>🐕&nbsp; Tenho 5 dogs</span>
 :electron:&nbsp; Posso passar horas conversando sobre física
 🌊&nbsp; O melhor lugar para se estar é na praia
 🏡&nbsp; Meu sonho é ter uma casa totalmente automática
