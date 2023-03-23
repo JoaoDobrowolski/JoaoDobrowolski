@@ -53,8 +53,8 @@
 👨‍💻&nbsp; Raspagem de dados me fascina<br>
 🦐&nbsp; Minha comida favorita é camarão<br>
 👨‍👩‍👧‍👦&nbsp; Adoro sair com os amigos ou jogar com eles pelo Discord<br>
-⚙️&nbsp; Já fui estagiário de projetos, onde fazia diversas simulações mecânicas e de fluidos
-:magic_wand:&nbsp; Senhor dos Anéis e Harry Potter > outros
+⚙️&nbsp; Já fui estagiário de projetos, onde fazia diversas simulações mecânicas e de fluidos<br>
+🧙&nbsp; Senhor dos Anéis e Harry Potter > outros
 </p>
 </div>
 
