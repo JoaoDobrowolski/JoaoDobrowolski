@@ -44,7 +44,7 @@
 ### <div align="center">⚡ Meus interesses pessoais:</div>
 <div align="justify">
 <p>
-💻 Front-End é meu xodó (sem tirar a importância do Back-End)
+💻 Front-End é meu xodó (sem tirar a importância do Back-End)\n
 🐕 Tenho 5 dogs
 :electron: Posso passar horas conversando sobre física
 🌊 O melhor lugar para se estar é na praia
