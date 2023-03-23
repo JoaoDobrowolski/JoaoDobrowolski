@@ -44,15 +44,15 @@
 ### <div align="center">⚡ Meus interesses pessoais:</div>
 <div align="justify">
 <p>
-💻 &nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)\n
-🐕 &nbsp; Tenho 5 dogs
-:electron: &nbsp; Posso passar horas conversando sobre física
-🌊 &nbsp; O melhor lugar para se estar é na praia
-🏡 &nbsp; Meu sonho é ter uma casa totalmente automática
-👨‍💻 &nbsp; Raspagem de dados me fascina
-🦐 &nbsp; Minha comida favorita é camarão
-👨‍👩‍👧‍👦 &nbsp; Adoro sair com os amigos ou jogar com eles pelo Discord
-⚙️ &nbsp; Já fui estagiário de projetos, onde fazia diversas simulações mecânicas e de fluidos
+<p>💻&nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)</p>
+<p>🐕&nbsp; Tenho 5 dogs</p>
+:electron:&nbsp; Posso passar horas conversando sobre física
+🌊&nbsp; O melhor lugar para se estar é na praia
+🏡&nbsp; Meu sonho é ter uma casa totalmente automática
+👨‍💻&nbsp; Raspagem de dados me fascina
+🦐&nbsp; Minha comida favorita é camarão
+👨‍👩‍👧‍👦&nbsp; Adoro sair com os amigos ou jogar com eles pelo Discord
+⚙️&nbsp; Já fui estagiário de projetos, onde fazia diversas simulações mecânicas e de fluidos
 </p>
 </div>
 
