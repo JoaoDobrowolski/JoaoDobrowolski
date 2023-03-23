@@ -1,4 +1,8 @@
-### <div align="center">Seja bem vindo(a) ao meu GitHub 🚀</div>
+### <div align="center">Seja bem vindo(a) ao meu GitHub ⭐</div>
+
+-----
+
+<img align="center" alt="Header" src=""/>
 
 -----
 
