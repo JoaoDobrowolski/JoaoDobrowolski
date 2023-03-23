@@ -2,7 +2,7 @@
 
 -----
 
-<img align="center" alt="Header" src="https://github.com/JoaoDobrowolski/JoaoDobrowolski/blob/master/img/gitIntro.png?raw=true"/>
+<img align="center" alt="Header" src="https://raw.githubusercontent.com/JoaoDobrowolski/JoaoDobrowolski/main/img/gitIntro.png"/>
 
 -----
 
