@@ -9,7 +9,7 @@
 ### <div align="center">👣 Sobre mim:</div>
 <div align="justify">
 <p>
-[EM CONSTRUÇÃO]
+Engenheiro Mecânico, 24 anos, Paranaense e Desenvolvedor Web. Começou sua trajetória na tecnologia desde criança, sempre ganhando destaque nas feiras de ciências do colégio. Sua primeira escalada na montanha da programação foi logo no inicio da faculdade de Engenharia Mecânica (*UTFPR), seguindo as trilhas de *C++ e, logo depois, *Python e *Java. Contudo, a vista ainda estava com névoa, e o que fez enxergar acima das nuvens e com clareza foi o curso da *Trybe, onde pegou a estrada até o topo com *JavaScript e ainda se aventurou um pouco mais no caminho com *Python, quase sempre acompanhado dos guias *Metodologias Ágeis, *SOLID e *POO e se hidratando com muito aprendizado em *Soft Skills. Cada degrau dessa escalada foi acompanhado com um projeto, sendo mais de 30 ao todo e alguns em grupo. Os equipamentos ofertados para a ascenção dos degrais que mais tiveram seu destaque foram *React, *Redux, *Context API, *NodeJS, *Express, *Sequelize, *Docker, *mySQL, *mongoDB, *GIT, *GitHub, entre outros. Com qualidade de teste garantida com *Jest, *RTL, *Mocha e *Chai. Atualmente terminando o curso e aproveitando a vista.
 </p>
 </div>
 
@@ -45,6 +45,7 @@
 <div align="justify">
 <p>
 💻&nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)<br>
+🛡️&nbsp; Característica que mais aprecio é a honra<br>
 🐕&nbsp; Tenho 5 dogs<br>
 :electron:&nbsp; Posso passar horas conversando sobre física<br>
 😛&nbsp; Minha primeira e-linguagem foi C++<br>
