@@ -32,7 +32,7 @@ Engenheiro Mecânico, 24 anos, Paranaense e Desenvolvedor Web. Começou sua traj
 </td>
 <td><a href="https://slack.com/app_redirect?channel=U037PTJ6Q66"><img src="https://github.com/JoaoDobrowolski/JoaoDobrowolski/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/JoaoDobrowolski#3961" target="_blank"><img src="https://github.com/JoaoDobrowolski/JoaoDobrowolski/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/JoaoDobrowolski#3961" target="_blank"><img src="https://github.com/JoaoDobrowolski/JoaoDobrowolski/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <tr>
 <td align="center" colspan="11"></td>
