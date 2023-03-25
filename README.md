@@ -89,11 +89,11 @@ Engenheiro Mecânico, 24 anos, Paranaense e Desenvolvedor Web. Começou sua traj
 
 -----
 
-<div>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDobrowolski&theme=dark"/>
+<div align="center">
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDobrowolski&theme=dark&utcOffset=3"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoDobrowolski&theme=dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDobrowolski&theme=dark"/>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDobrowolski&theme=dark"/>
 </div>
 
 -----
