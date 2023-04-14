@@ -52,7 +52,6 @@ Engenheiro Mecânico, 24 anos, Paranaense e Desenvolvedor Web. Começou sua traj
 😛&nbsp; Minha primeira e-linguagem foi C++<br>
 🌊&nbsp; O melhor lugar para se estar é na praia<br>
 🏡&nbsp; Meu sonho é ter uma casa totalmente automática<br>
-🦐&nbsp; Minha comida favorita é camarão<br>
 👨‍👩‍👧‍👦&nbsp; Adoro sair com os amigos ou jogar com eles pelo Discord<br>
 ⚙️&nbsp; Já fui estagiário de projetos, onde fazia diversas simulações mecânicas e de fluidos<br>
 🧙&nbsp; Senhor dos Anéis e Harry Potter > outros
