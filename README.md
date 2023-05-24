@@ -47,7 +47,7 @@ Engenheiro Mecânico, 24 anos, Paranaense e Desenvolvedor Web. Começou sua traj
 <p>
 💻&nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)<br>
 🛡️&nbsp; Característica que mais aprecio é a honra<br>
-🐕&nbsp; Tenho 5 dogs<br>
+🐕&nbsp; Tenho 4 dogs<br>
 :electron:&nbsp; Posso passar horas conversando sobre física<br>
 😛&nbsp; Minha primeira e-linguagem foi C++<br>
 🌊&nbsp; O melhor lugar para se estar é na praia<br>
