@@ -43,6 +43,7 @@ Engenheiro Mecânico, 24 anos, Paranaense e Desenvolvedor Web. Começou sua traj
 -----
 
 ### <div align="center">⚡ Meus interesses pessoais:</div>
+
 <div align="justify">
 <p>
 💻&nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)<br>
