@@ -42,7 +42,7 @@ Recentemente com o curso concluído, tem seguido novas trilhas e explorando mais
 
 -----
 
-### <div align="center">⚡ Meus interesses pessoais:</div>
+### <div align="center">⚡ My Personal Interests:</div>
 
 <div align="justify">
 <p>
@@ -60,7 +60,7 @@ Recentemente com o curso concluído, tem seguido novas trilhas e explorando mais
 
 -----
 
-### <div align="center">🛠️ Linguagens e ferramentas:</div>
+### <div align="center">🛠️ Languages and Tools:</div>
 
 <div align="center">
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
