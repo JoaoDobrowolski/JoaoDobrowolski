@@ -91,9 +91,9 @@ Recentemente com o curso concluído, tem seguido novas trilhas e explorando mais
 
 <div align="center">
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDobrowolski&theme=dark&utcOffset=3"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoDobrowolski&theme=dark"/>
+// <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoDobrowolski&theme=dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDobrowolski&theme=dark"/>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDobrowolski&theme=dark"/>
+// <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDobrowolski&theme=dark"/>
 </div>
 
 -----
