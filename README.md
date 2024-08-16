@@ -46,15 +46,15 @@ Recentemente com o curso concluído, tem seguido novas trilhas e explorando mais
 
 <div align="justify">
 <p>
-💻&nbsp; Front-End é meu xodó (sem tirar a importância do Back-End)<br>
-🛡️&nbsp; Característica que mais aprecio é a honra<br>
-🐕&nbsp; Tenho 4 dogs<br>
-:electron:&nbsp; Posso passar horas conversando sobre física<br>
-😛&nbsp; Minha primeira e-linguagem foi C++<br>
-🌊&nbsp; O melhor lugar para se estar é na praia<br>
-👨‍👩‍👧‍👦&nbsp; Adoro sair com os amigos ou jogar com eles pelo Discord<br>
-⚙️&nbsp; Já fui estagiário de projetos, onde fazia diversas simulações mecânicas e de fluidos<br>
-🧙&nbsp; Senhor dos Anéis e Harry Potter > outros
+💻 Front-End is my passion (though Back-End is important too)
+🛡️ The quality I value most is honor
+🐕 I have 4 dogs
+:electron: I can spend hours talking about physics
+😛 My first programming language was C++
+🌊 The best place to be is at the beach
+👨‍👩‍👧‍👦 I love hanging out with friends or playing with them on Discord
+⚙️ I've worked in mechanical engineering, where I performed various solid and fluid simulations
+🧙 I love fantasy movies, especially The Lord of the Rings and Harry Potter
 </p>
 </div>
 
