@@ -2,7 +2,7 @@
 
 -----
 
-<img align="center" alt="Header" src="https://raw.githubusercontent.com/JoaoDobrowolski/JoaoDobrowolski/main/img/github-header-image"/>
+<img align="center" alt="Header" src="https://raw.githubusercontent.com/JoaoDobrowolski/JoaoDobrowolski/main/img/github-header-image.png"/>
 
 -----
 
