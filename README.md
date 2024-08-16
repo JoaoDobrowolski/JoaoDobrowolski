@@ -46,15 +46,15 @@ Recentemente com o curso concluído, tem seguido novas trilhas e explorando mais
 
 <div align="justify">
 <p>
-💻 Front-End is my passion (though Back-End is important too)
-🛡️ The quality I value most is honor
-🐕 I have 4 dogs
-:electron: I can spend hours talking about physics
-😛 My first programming language was C++
-🌊 The best place to be is at the beach
-👨‍👩‍👧‍👦 I love hanging out with friends or playing with them on Discord
-⚙️ I've worked in mechanical engineering, where I performed various solid and fluid simulations
-🧙 I love fantasy movies, especially The Lord of the Rings and Harry Potter
+💻 Front-End is my passion (though Back-End is important too)<br>
+🛡️ The quality I value most is honor<br>
+🐕 I have 4 dogs<br>
+:electron: I can spend hours talking about physics<br>
+😛 My first programming language was C++<br>
+🌊 The best place to be is at the beach<br>
+👨‍👩‍👧‍👦 I love hanging out with friends or playing with them on Discord<br>
+⚙️ I've worked in mechanical engineering, where I performed various solid and fluid simulations<br>
+🧙 I love fantasy movies, especially The Lord of the Rings and Harry Potter<br>
 </p>
 </div>
 
