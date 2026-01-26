@@ -11,8 +11,8 @@
 <p>
 <strong>Full Stack Developer | Mechanical Engineer</strong><br><br>
 My journey in programming began during my Mechanical Engineering degree at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>. I started with <strong>C++</strong>, moved to <strong>Python</strong> for engineering simulations, and deepened my understanding of <strong>SOLID</strong> principles and <strong>OOP</strong> using <strong>Java</strong>. Later, I built a solid foundation in Web Development at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, mastering the modern stack that I use today.<br><br>
-Currently, I work at <a href="https://oneblinc.com/" target="_blank"><strong>OneBlinc</strong></a> (Fintech), where I am primarily focused on <strong>Backend development</strong>. My daily work involves designing <strong>Python-based automations</strong> and integrating diverse technologies to streamline Customer Experience workflows.<br><br>
-Previously, I worked as a Frontend Developer delivering responsive applications for the Non-Profit and Real Estate sectors. Notably, at <a href="https://scholarsoffinance.org/" target="_blank">Scholars of Finance</a>, I contributed to financial education platforms using <strong>Next.js</strong>, while at Olby and Terraz, I worked on web solutions and backend integrations using <strong>React</strong> and <strong>Flutter</strong>.
+Currently, I work at <a href="https://oneblinc.com/" target="_blank"><strong>OneBlinc</strong></a> (Fintech). I initially joined to develop mobile applications using <strong>Flutter</strong>, but my focus has since shifted to <strong>Backend development</strong>. I now primarily use <strong>Python</strong> and <strong>Django</strong> to design automations and integrate technologies that streamline Customer Experience workflows.<br><br>
+Previously, I worked as a Frontend Developer delivering responsive applications. Notably, at <a href="https://scholarsoffinance.org/" target="_blank">Scholars of Finance</a>, I contributed to financial education platforms using <strong>Next.js</strong>, while at Olby and Terraz, I worked on web solutions in the <strong>Frontend</strong>.
 </p>
 </div>
 
@@ -52,6 +52,7 @@ Previously, I worked as a Frontend Developer delivering responsive applications 
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <br>
+<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -59,6 +60,7 @@ Previously, I worked as a Frontend Developer delivering responsive applications 
 <br>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="NEXT" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <br>
