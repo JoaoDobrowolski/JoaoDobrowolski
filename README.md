@@ -9,7 +9,7 @@
 ### <div align="center">👣 About Me</div>
 <div align="justify">
 <p>
-<strong>Full Stack Developer | Mechanical Engineer</strong><br><br>
+<strong>Full Stack Developer</strong><br><br>
 My journey in programming began during my Mechanical Engineering degree at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>. I started with <strong>C++</strong>, moved to <strong>Python</strong> for engineering simulations, and deepened my understanding of <strong>SOLID</strong> principles and <strong>OOP</strong> using <strong>Java</strong>. Later, I built a solid foundation in Web Development at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, mastering the modern stack that I use today.<br><br>
 Currently, I work at <a href="https://oneblinc.com/" target="_blank"><strong>OneBlinc</strong></a> (Fintech). I initially joined to develop mobile applications using <strong>Flutter</strong>, but my focus has since shifted to <strong>Backend development</strong>. I now primarily use <strong>Python</strong> and <strong>Django</strong> to design automations and integrate technologies that streamline Customer Experience workflows.<br><br>
 Previously, I worked as a Frontend Developer delivering responsive applications. Notably, at <a href="https://scholarsoffinance.org/" target="_blank">Scholars of Finance</a>, I contributed to financial education platforms using <strong>Next.js</strong>, while at Olby and Terraz, I worked on web solutions in the <strong>Frontend</strong>.
